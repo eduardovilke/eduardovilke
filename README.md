@@ -22,4 +22,6 @@
   <a href="https://www.linkedin.com/in/eduardo-vilke/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.eduardovilke.com/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/eduardo_vilke" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/eduardovilke/eduardovilke/blob/output/github-contribution-grid-snake.svg)
 </div>
