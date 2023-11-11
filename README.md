@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Eduardo Vilke, FullStack Developer passionate about technology
+## 👋 Hi, I'm Eduardo Vilke, FullStack Developer
 <div align="center">
   <a href="https://github.com/eduardovilke">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardovilke&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
